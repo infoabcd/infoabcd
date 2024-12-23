@@ -47,6 +47,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="padding: 0.78em;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" style="padding: 0.78em;" />
+    <img src="https://api.iconify.design/devicon:flask.svg" alt="flask" width="50" height="50" style="padding: 0.78em;" />
+    <img src="https://api.iconify.design/devicon:fastapi-wordmark.svg" alt="FastAPI" width="50" height="50" style="padding: 0.78em;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" style="padding: 0.78em;" />
 </p>
 
