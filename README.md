@@ -1,5 +1,5 @@
 <h1 align="center">你好！我是 {葵} 🌻</h1>
-<h3 align="center">欢迎来到我的工作账户！虽然注册比主账户晚了两年。但从现在起(2024)，我将主要使用这个账户！</h3>
+<h3 align="center">欢迎来到我的工作账户！虽然注册比主要账户晚了两年。但从现在起(2024)，我将主要使用这个账户！</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=infoabcd&label=Profile%20views&color=ff69b4&style=flat-square" alt="infoabcd" />
@@ -22,13 +22,13 @@
 
 ### 编程语言
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/devicon:c.svg" alt="C" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/devicon:python.svg" alt="Python" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" alt="Node.js" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/skill-icons:javascript.svg" alt="JavaScript" width="50" height="50" style="padding: 0.78em;" />
   <p align="center"> 虽然我知道这并非编程语言 => 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="padding: 0.78em;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="padding: 0.78em;" />
+    <img src="https://api.iconify.design/devicon:css3.svg" alt="CSS3" width="50" height="50" style="padding: 0.78em;" />
+    <img src="https://api.iconify.design/devicon:html5.svg" alt="HTML5" width="50" height="50" style="padding: 0.78em;" />
   </p>
 </p>
 
@@ -36,8 +36,8 @@
 
 ### 系统
 <p align="center">
-  <img src="https://api.iconify.design/devicon:kalilinux.svg" alt="Kali Linux" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://api.iconify.design/devicon:debian-wordmark.svg" alt="Debian Linux" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/skill-icons:kali-dark.svg" alt="Kali Linux" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/skill-icons:debian-dark.svg" alt="Debian Linux" width="50" height="50" style="padding: 0.78em;" />
   <img src="https://api.iconify.design/logos:archlinux.svg" alt="Arch Linux" width="50" height="50" style="padding: 0.78em;" />
 </p>
 
@@ -45,21 +45,21 @@
 
 ### 框架
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" style="padding: 0.78em;" />
-    <img src="https://api.iconify.design/devicon:flask.svg" alt="flask" width="50" height="50" style="padding: 0.78em;" />
-    <img src="https://api.iconify.design/devicon:fastapi-wordmark.svg" alt="FastAPI" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/skill-icons:react-dark.svg" alt="React" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" alt="Express" width="50" height="50" style="padding: 0.78em;" />
+    <img src="https://api.iconify.design/skill-icons:flask-dark.svg" alt="flask" width="50" height="50" style="padding: 0.78em;" />
+    <img src="https://api.iconify.design/skill-icons:fastapi.svg" alt="FastAPI" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/devicon:bootstrap.svg" alt="Bootstrap" width="50" height="50" style="padding: 0.78em;" />
 </p>
 
 ---
 
 ### 软件
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/devicon:sqlite.svg" alt="SQLite" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/devicon:mysql-wordmark.svg" alt="MySQL" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/devicon:docker.svg" alt="Docker" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/logos:nginx.svg" alt="Nginx" width="50" height="50" style="padding: 0.78em;" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ### 测试
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer" width="50" height="50" style="padding: 0.78em;" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50" style="padding: 0.78em;" />
+  <img src="https://api.iconify.design/logos:selenium.svg" alt="Selenium" width="50" height="50" style="padding: 0.78em;" />
 </p>
 
 ---
