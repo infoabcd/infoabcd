@@ -12,7 +12,7 @@
 - 🌱 **正在学习**：Golang，计算机原理。  
 - 📝 **文章与博客**：[blog.dontalk.org](https://blog.dontalk.org) (缓慢(极其)开发新的博客引擎)。  
 - 💬 **其他技术**：我也使用过其他技术，但并不特别精通，所以这里不多提啦。  
-- 📫 **如何联系我？**：support@dontalk.org
+- 📫 **如何联系我？**：fokintfoy@hotmail.com
 - ⚡ **日常**：写作、思考、吃饭、发呆。
 
 ---
